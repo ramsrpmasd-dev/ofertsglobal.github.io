@@ -1,0 +1,7 @@
+{
+  "name": "Copy of OfertaGlobal - Buscador Inteligente",
+  "description": "Una plataforma avanzada para encontrar las mejores ofertas, compras al por mayor y cupones de descuento en sitios verificados y confiables, adaptado a tu ubicación.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
